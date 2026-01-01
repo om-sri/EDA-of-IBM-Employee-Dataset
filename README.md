@@ -14,6 +14,5 @@ Visualizations to understand employee demographics, compensation, job satisfacti
 
 The goal of the project is to identify key factors influencing employee attrition, such as salary, satisfaction level, job role, department, and promotion delays.
 
-Language & Tools Used: R
-
+Language: R
 Libraries: tidyverse, ggplot2, dplyr, janitor
