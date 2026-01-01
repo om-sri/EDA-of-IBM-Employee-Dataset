@@ -1,18 +1,18 @@
-# EDA-of-IBM-Employee-Dataset
+# Exploratory Data Analysis
 
 This project analyzes employee attrition using the IBM HR Analytics Employee Attrition & Performance dataset.
 
 The analysis is done using R, focusing on:
 
-Data cleaning and preprocessing
+1. Data cleaning and preprocessing
 
-Descriptive statistics
+2. Descriptive statistics
 
-Exploratory data analysis (EDA)
+3. Exploratory data analysis (EDA)
 
-Visualizations to understand employee demographics, compensation, job satisfaction, promotions, and attrition patterns
+4. Visualizations to understand employee demographics, compensation, job satisfaction, promotions, and attrition patterns
 
 The goal of the project is to identify key factors influencing employee attrition, such as salary, satisfaction level, job role, department, and promotion delays.
 
-Language: R
-Libraries: tidyverse, ggplot2, dplyr, janitor
+1. Language: R
+2. Libraries: tidyverse, ggplot2, dplyr, janitor
