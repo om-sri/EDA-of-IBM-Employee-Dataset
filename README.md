@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 
-This project analyzes employee attrition using the IBM HR Analytics Employee Attrition & Performance dataset.
+This project analyzes employee attrition using the [IBM HR Analytics](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data) Employee Attrition & Performance dataset.
 
 The analysis is done using R, focusing on:
 
